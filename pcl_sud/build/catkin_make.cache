@@ -1,0 +1,2 @@
+point_cloud
+-DCATKIN_DEVEL_PREFIX=/home/hitech/pcl_sud/devel -DCMAKE_INSTALL_PREFIX=/home/hitech/pcl_sud/install -G Unix Makefiles

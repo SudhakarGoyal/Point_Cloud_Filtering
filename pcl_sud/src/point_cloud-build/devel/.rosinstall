@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hitech/pcl_sud/src/point_cloud-build/devel/setup.sh
